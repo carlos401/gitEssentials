@@ -3,16 +3,10 @@ This repository is used to explain how git works
 
 ---
 
-## How github works?
-Here will be an explanation
-
-## Working remoted
-Here also will be an explanation
-
-## Look that tittle
-Content here
+## How to become expert?
+Read the oficial git book that we have used in <https://git-scm.com/book/en/v2>
 
 ---
 
 # Names section
-Yo me llamo charlie y traigo la coca cola
+
