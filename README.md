@@ -10,5 +10,5 @@ Read the oficial git book that we have used in <https://git-scm.com/book/en/v2>
 
 # Attendance
 Jorge Porras
-
+Juan Campos Obando 
 geovanny
