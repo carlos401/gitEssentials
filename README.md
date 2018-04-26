@@ -1,4 +1,4 @@
-# git essentials
+# Git Essentials
 This repository is being used to explain how git works
 
 ---
