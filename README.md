@@ -1,5 +1,5 @@
-# gitEssentials
-This repository is used to explain how git works
+# git essentials
+This repository is being used to explain how git works
 
 ---
 
@@ -8,5 +8,5 @@ Read the oficial git book that we have used in <https://git-scm.com/book/en/v2>
 
 ---
 
-# Names section
+# Attendance
 
